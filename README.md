@@ -1,12 +1,12 @@
 # Desktop-DSDT-Patches
 DSDT repository osxpc.ru are avalible:
 
-Type the following URL: https://github.com/osxpc/Desktop-DSDT-Patches
-MaciASL URL:            http://raw.github.com/osxpc/PC-DSDT-Patches/master
+Type the following URL: https://github.com/osxpc/Desktop-DSDT-Patches  
+MaciASL URL:            http://raw.github.com/osxpc/PC-DSDT-Patches/master   
  
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Ссылка на репозиторий: https://github.com/osxpc/Desktop-DSDT-Patches
-Ссылка для MaciASL:    http://raw.github.com/osxpc/PC-DSDT-Patches/master
+Ссылка на репозиторий: https://github.com/osxpc/Desktop-DSDT-Patches    
+Ссылка для MaciASL:    http://raw.github.com/osxpc/PC-DSDT-Patches/master   
 
 
 # MaciASL
