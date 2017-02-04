@@ -1,11 +1,13 @@
 # Desktop-DSDT-Patches
 DSDT repository osxpc.ru are avalible:
 
-Type the following URL: http://raw.github.com/osxpc/PC-DSDT-Patches/master
+Type the following URL: https://github.com/osxpc/Desktop-DSDT-Patches
+MaciASL URL:            http://raw.github.com/osxpc/PC-DSDT-Patches/master
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Ссылка на репозиторий: https://github.com/osxpc/Desktop-DSDT-Patches
+Ссылка для MaciASL:    http://raw.github.com/osxpc/PC-DSDT-Patches/master
 
-Ссылка на репозиторий: http://raw.github.com/osxpc/PC-DSDT-Patches/master
 
 # MaciASL
 We recomendet use this MaciASL: http://osxpc.ru/downloads/programs/maciasl/
@@ -22,7 +24,7 @@ If you don't have internet access and wish to use a repository locally:
 - Download the .ZIP of the repository from github (Download ZIP button on right side);
 - Copy the resulting .ZIP to the laptop (via USB), for example, to your Documents folder;
 - Unzip it in place;
-- Now add the path to the 'sources' in MaciASL Preferences, in the case of this repo, copied to Documents, the URL/path would be file:///Users/ВашеИмяПользователя/Documents/PC-DSDT-Patches-master
+- Now add the path to the 'sources' in MaciASL Preferences, in the case of this repo, copied to Documents, the URL/path would be file:///Users/username/Documents/PC-DSDT-Patches-master
 
 After that you can use the repo just like a remote repo.
 
